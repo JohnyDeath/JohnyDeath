@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Summary coders rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=JohnyDeath)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JohnyDeath&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyDeath&hide=TeX&layout=compact)
+![Anurag's github stats](https://github-readme-stats-git-main-johnydeath.vercel.app/api?username=JohnyDeath&show_icons=true)
+![Top Langs](https://github-readme-stats-git-main-johnydeath.vercel.app/api/top-langs/?username=JohnyDeath&hide=TeX&layout=compact)
 <!--
 **JohnyDeath/JohnyDeath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
