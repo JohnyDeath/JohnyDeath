@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Summary coders rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=JohnyDeath)
+![Summary coders rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=JohnyDeath&badges=1)
 ![Anurag's github stats](https://github-readme-stats-git-main-johnydeath.vercel.app/api?username=JohnyDeath&show_icons=true)
 ![Top Langs](https://github-readme-stats-git-main-johnydeath.vercel.app/api/top-langs/?username=JohnyDeath&hide=TeX&layout=compact)
 <!--
